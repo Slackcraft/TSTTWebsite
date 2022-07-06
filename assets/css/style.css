@@ -1347,14 +1347,14 @@ section {
 	font-family   : "Ubuntu", sans-serif;
 	position      : relative;
 	z-index       : 2;
-	font-size     : 12px;
+	font-size     : 18px;
 	font-weight   : 700;
 	text-transform: uppercase;
 	text-align    : center;
 	border-radius : 0;
 	padding       : 0;
 	line-height   : 45px;
-	width         : 170px;
+	width         : 260px;
 	height        : 45px;
 }
 
@@ -1366,7 +1366,7 @@ section {
 
 /* Button Primary */
 .btn--primary {
-	background-color: #49b970;
+	background-color: #e17a22;
 	color           : #ffffff;
 	border          : none;
 }
@@ -2019,7 +2019,7 @@ section {
 	}
 
 	.hero .btn {
-		width: 130px;
+		width: 260px;
 	}
 
 	.hero form {
